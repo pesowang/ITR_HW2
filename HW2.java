@@ -289,7 +289,7 @@ public class HW2 {
 }
 
 /*
-作業討論：M104020026 陳亭椰、M104020014 周紘樟
+作業想法討論：M104020014 周紘樟、M104020026 陳亭椰
 
 參考資料：
 https://stackoverflow.com/questions/409784/whats-the-simplest-way-to-print-a-java-array
